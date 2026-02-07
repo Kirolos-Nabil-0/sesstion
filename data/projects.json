@@ -1,0 +1,82 @@
+[
+  {
+    "id": "project-portfolio-html",
+    "title": "Portfolio - HTML Structure",
+    "description": "Create the basic HTML structure for your personal portfolio",
+    "difficulty": "beginner",
+    "thumbnailUrl": "/images/projects/portfolio-html.png",
+    "estimatedHours": 2,
+    "stepIds": ["html-semantic"],
+    "primaryStepId": "html-semantic",
+    "tutorials": [
+      {
+        "id": "tut-port-1",
+        "title": "Build HTML Portfolio - Tutorial",
+        "url": "https://www.youtube.com/watch?v=...",
+        "type": "video",
+        "language": "arabic",
+        "isFree": true
+      }
+    ]
+  },
+  {
+    "id": "project-portfolio-css",
+    "title": "Portfolio - CSS Styling",
+    "description": "Style your portfolio with modern CSS",
+    "difficulty": "beginner",
+    "thumbnailUrl": "/images/projects/portfolio-css.png",
+    "estimatedHours": 4,
+    "stepIds": ["html-semantic", "css-flexbox", "css-responsive"],
+    "primaryStepId": "css-responsive",
+    "tutorials": [
+      {
+        "id": "tut-port-2",
+        "title": "Style Your Portfolio - Tutorial",
+        "url": "https://www.youtube.com/watch?v=...",
+        "type": "video",
+        "language": "arabic",
+        "isFree": true
+      }
+    ]
+  },
+  {
+    "id": "project-calculator",
+    "title": "Calculator Layout",
+    "description": "Build a calculator UI using CSS Grid",
+    "difficulty": "beginner",
+    "thumbnailUrl": "/images/projects/calculator.png",
+    "estimatedHours": 3,
+    "stepIds": ["css-grid"],
+    "primaryStepId": "css-grid",
+    "tutorials": [
+      {
+        "id": "tut-calc-1",
+        "title": "CSS Grid Calculator - Tutorial",
+        "url": "https://www.youtube.com/watch?v=...",
+        "type": "video",
+        "language": "english",
+        "isFree": true
+      }
+    ]
+  },
+  {
+    "id": "project-calculator-js",
+    "title": "Calculator - Full Functionality",
+    "description": "Add JavaScript to make the calculator work",
+    "difficulty": "intermediate",
+    "thumbnailUrl": "/images/projects/calculator-js.png",
+    "estimatedHours": 4,
+    "stepIds": ["css-grid", "js-dom", "js-events"],
+    "primaryStepId": "js-events",
+    "tutorials": [
+      {
+        "id": "tut-calc-2",
+        "title": "JavaScript Calculator - Tutorial",
+        "url": "https://www.youtube.com/watch?v=...",
+        "type": "video",
+        "language": "arabic",
+        "isFree": true
+      }
+    ]
+  }
+]

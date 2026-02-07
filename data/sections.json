@@ -1,0 +1,72 @@
+[
+  {
+    "id": "html-basics",
+    "roadmapId": "web-dev-roadmap",
+    "title": "HTML Basics",
+    "description": "Learn the building blocks of every website",
+    "pathType": "fundamentals",
+    "orderIndex": 1,
+    "isBranchPoint": false,
+    "icon": "mdi:language-html5"
+  },
+  {
+    "id": "css-fundamentals",
+    "roadmapId": "web-dev-roadmap",
+    "title": "CSS Fundamentals",
+    "description": "Style your websites and make them beautiful",
+    "pathType": "fundamentals",
+    "orderIndex": 2,
+    "isBranchPoint": false,
+    "icon": "mdi:language-css3"
+  },
+  {
+    "id": "javascript-essentials",
+    "roadmapId": "web-dev-roadmap",
+    "title": "JavaScript Essentials",
+    "description": "Add interactivity and logic to your websites",
+    "pathType": "fundamentals",
+    "orderIndex": 3,
+    "isBranchPoint": true,
+    "icon": "mdi:language-javascript"
+  },
+  {
+    "id": "vue-js",
+    "roadmapId": "web-dev-roadmap",
+    "title": "Vue.js",
+    "description": "Build modern reactive user interfaces",
+    "pathType": "frontend",
+    "orderIndex": 4,
+    "isBranchPoint": false,
+    "icon": "mdi:vuejs"
+  },
+  {
+    "id": "react-js",
+    "roadmapId": "web-dev-roadmap",
+    "title": "React",
+    "description": "Master the most popular frontend library",
+    "pathType": "frontend",
+    "orderIndex": 5,
+    "isBranchPoint": false,
+    "icon": "mdi:react"
+  },
+  {
+    "id": "node-js",
+    "roadmapId": "web-dev-roadmap",
+    "title": "Node.js",
+    "description": "JavaScript on the server side",
+    "pathType": "backend",
+    "orderIndex": 4,
+    "isBranchPoint": false,
+    "icon": "mdi:nodejs"
+  },
+  {
+    "id": "databases",
+    "roadmapId": "web-dev-roadmap",
+    "title": "Databases",
+    "description": "Store and manage your data",
+    "pathType": "backend",
+    "orderIndex": 5,
+    "isBranchPoint": false,
+    "icon": "mdi:database"
+  }
+]

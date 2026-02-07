@@ -1,0 +1,32 @@
+[
+  {
+    "id": "res-html-1",
+    "stepId": "html-structure",
+    "title": "HTML Crash Course - Elzero Web School",
+    "url": "https://www.youtube.com/watch?v=...",
+    "type": "video",
+    "language": "arabic",
+    "isFree": true,
+    "orderIndex": 1
+  },
+  {
+    "id": "res-html-2",
+    "stepId": "html-structure",
+    "title": "MDN - HTML Basics",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+    "type": "documentation",
+    "language": "english",
+    "isFree": true,
+    "orderIndex": 2
+  },
+  {
+    "id": "res-css-1",
+    "stepId": "css-selectors",
+    "title": "CSS Tutorial - Elzero Web School",
+    "url": "https://www.youtube.com/watch?v=...",
+    "type": "video",
+    "language": "arabic",
+    "isFree": true,
+    "orderIndex": 1
+  }
+]

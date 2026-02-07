@@ -1,0 +1,114 @@
+[
+  {
+    "id": "html-structure",
+    "sectionId": "html-basics",
+    "title": "HTML Structure",
+    "description": "Learn the basic structure of an HTML document - doctype, html, head, and body tags",
+    "orderIndex": 1,
+    "estimatedHours": 2
+  },
+  {
+    "id": "html-elements",
+    "sectionId": "html-basics",
+    "title": "HTML Elements & Tags",
+    "description": "Master headings, paragraphs, links, images, and lists",
+    "orderIndex": 2,
+    "estimatedHours": 3
+  },
+  {
+    "id": "html-forms",
+    "sectionId": "html-basics",
+    "title": "Forms & Inputs",
+    "description": "Create interactive forms with various input types",
+    "orderIndex": 3,
+    "estimatedHours": 3
+  },
+  {
+    "id": "html-semantic",
+    "sectionId": "html-basics",
+    "title": "Semantic HTML",
+    "description": "Write meaningful HTML with semantic elements",
+    "orderIndex": 4,
+    "estimatedHours": 2
+  },
+  {
+    "id": "css-selectors",
+    "sectionId": "css-fundamentals",
+    "title": "CSS Selectors & Properties",
+    "description": "Target elements and apply styles",
+    "orderIndex": 1,
+    "estimatedHours": 3
+  },
+  {
+    "id": "css-box-model",
+    "sectionId": "css-fundamentals",
+    "title": "Box Model & Layout",
+    "description": "Understand margin, padding, and the box model",
+    "orderIndex": 2,
+    "estimatedHours": 3
+  },
+  {
+    "id": "css-flexbox",
+    "sectionId": "css-fundamentals",
+    "title": "Flexbox",
+    "description": "Create flexible layouts with ease",
+    "orderIndex": 3,
+    "estimatedHours": 4
+  },
+  {
+    "id": "css-grid",
+    "sectionId": "css-fundamentals",
+    "title": "CSS Grid",
+    "description": "Build complex grid layouts",
+    "orderIndex": 4,
+    "estimatedHours": 4
+  },
+  {
+    "id": "css-responsive",
+    "sectionId": "css-fundamentals",
+    "title": "Responsive Design",
+    "description": "Make your websites work on all devices",
+    "orderIndex": 5,
+    "estimatedHours": 3
+  },
+  {
+    "id": "js-variables",
+    "sectionId": "javascript-essentials",
+    "title": "Variables & Data Types",
+    "description": "Store and manipulate data in JavaScript",
+    "orderIndex": 1,
+    "estimatedHours": 2
+  },
+  {
+    "id": "js-functions",
+    "sectionId": "javascript-essentials",
+    "title": "Functions",
+    "description": "Write reusable blocks of code",
+    "orderIndex": 2,
+    "estimatedHours": 3
+  },
+  {
+    "id": "js-dom",
+    "sectionId": "javascript-essentials",
+    "title": "DOM Manipulation",
+    "description": "Interact with HTML elements using JavaScript",
+    "orderIndex": 3,
+    "estimatedHours": 4
+  },
+  {
+    "id": "js-events",
+    "sectionId": "javascript-essentials",
+    "title": "Events",
+    "description": "Handle user interactions",
+    "orderIndex": 4,
+    "estimatedHours": 3
+  },
+  {
+    "id": "js-async",
+    "sectionId": "javascript-essentials",
+    "title": "Async JavaScript",
+    "description": "Work with promises and async/await",
+    "orderIndex": 5,
+    "estimatedHours": 4
+  }
+]

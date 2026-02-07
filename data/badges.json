@@ -1,0 +1,74 @@
+[
+  {
+    "id": "badge-first-step",
+    "name": "First Step",
+    "description": "Complete your first step",
+    "iconUrl": "/images/badges/first-step.svg",
+    "category": "milestone",
+    "xpReward": 10,
+    "requirement": {
+      "type": "steps_completed",
+      "value": 1
+    }
+  },
+  {
+    "id": "badge-html-master",
+    "name": "HTML Master",
+    "description": "Complete the HTML section",
+    "iconUrl": "/images/badges/html-master.svg",
+    "category": "milestone",
+    "xpReward": 50,
+    "requirement": {
+      "type": "section_completed",
+      "value": "html-basics"
+    }
+  },
+  {
+    "id": "badge-week-warrior",
+    "name": "Week Warrior",
+    "description": "Maintain a 7-day learning streak",
+    "iconUrl": "/images/badges/week-warrior.svg",
+    "category": "streak",
+    "xpReward": 30,
+    "requirement": {
+      "type": "streak",
+      "value": 7
+    }
+  },
+  {
+    "id": "badge-month-champion",
+    "name": "Month Champion",
+    "description": "Maintain a 30-day learning streak",
+    "iconUrl": "/images/badges/month-champion.svg",
+    "category": "streak",
+    "xpReward": 100,
+    "requirement": {
+      "type": "streak",
+      "value": 30
+    }
+  },
+  {
+    "id": "badge-builder",
+    "name": "Builder",
+    "description": "Complete 5 projects",
+    "iconUrl": "/images/badges/builder.svg",
+    "category": "project",
+    "xpReward": 75,
+    "requirement": {
+      "type": "projects_completed",
+      "value": 5
+    }
+  },
+  {
+    "id": "badge-frontend-pro",
+    "name": "Frontend Pro",
+    "description": "Complete the Frontend path",
+    "iconUrl": "/images/badges/frontend-pro.svg",
+    "category": "path_completion",
+    "xpReward": 200,
+    "requirement": {
+      "type": "path_completed",
+      "value": "frontend"
+    }
+  }
+]
