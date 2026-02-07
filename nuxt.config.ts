@@ -23,6 +23,10 @@ export default defineNuxtConfig({
     preset: 'vercel'
   },
 
+  experimental: {
+    appManifest: false
+  },
+
   eslint: {
     config: {
       stylistic: {
