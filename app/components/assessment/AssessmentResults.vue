@@ -96,7 +96,10 @@ onMounted(() => {
               المسار المناسب ليك
             </UBadge>
           </div>
-          <span class="text-sm font-bold" :class="path.color">
+          <span
+            class="text-sm font-bold"
+            :class="path.color"
+          >
             {{ path.percentage }}%
           </span>
         </div>
